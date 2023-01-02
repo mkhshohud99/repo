@@ -1,0 +1,11 @@
+*{
+    padding: 0px auto;
+}
+h3{
+    color: orange;
+    background-color: cadetblue;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+}
